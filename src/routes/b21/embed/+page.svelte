@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Bible21 Čtečka</title>
+</svelte:head>
+
 <div class="flex h-dvh w-dvw items-center justify-center">
 	<iframe
 		src="https://dev.bible21.cz/embedded/reader/genesis"
